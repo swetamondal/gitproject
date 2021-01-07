@@ -1,0 +1,13 @@
+\" Manpage for nuseradd.
+.\" Contact vivek@nixcraft.net.in to correct errors or typos.
+.TH intersct1 "05 jan 2021" "0.1.01" "intersct1 man page"
+.SH NAME
+intersect1
+.SH SYNOPSIS
+Sweta [USERNAME]
+.SH DESCRIPTION
+nuseradd is high level shell program for custom command.
+.SH BUGS
+No known bugs.
+.SH AUTHOR
+SWETA MONDAL (swetamondal.22@gmail.com)
